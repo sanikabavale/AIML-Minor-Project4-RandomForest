@@ -1,0 +1,10 @@
+AIML Minor Project 4 — Submission Checklist
+
+[ ] Read Project_Report.pdf and Project_Report.docx.
+[ ] Fill in college name, department, roll number, guide name, and academic year if your college requires them.
+[ ] If the instructor strictly requires a file downloaded directly from Kaggle, configure Kaggle API and run download_kaggle_dataset.py before submission.
+[ ] Run `python train_model.py` after any dataset change.
+[ ] Confirm outputs/ contains refreshed plots, metrics, confusion matrix, ROC curve, and feature importance.
+[ ] Submit the ZIP and report in the format requested by the instructor.
+
+Note: This is an educational classification project, not a medical diagnostic tool.

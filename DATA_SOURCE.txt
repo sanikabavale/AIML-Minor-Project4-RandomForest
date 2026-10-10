@@ -1,0 +1,5 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Official Kaggle page: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+Original UCI repository: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
+Transparency note: the included cleaned CSV is based on the same public benchmark distributed with scikit-learn because the build environment could not directly download Kaggle's archive. To use the original Kaggle archive, configure the Kaggle API and run `python download_kaggle_dataset.py`; then run `python train_model.py` to regenerate outputs.
